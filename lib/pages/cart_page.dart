@@ -1,7 +1,7 @@
 import 'package:basic_of_flutter/modols/cart.dart';
 import 'package:flutter/material.dart';
 import 'package:velocity_x/velocity_x.dart';
-import 'package:basic_of_flutter/modols/catelog.dart';
+
 
 class CartPage extends StatelessWidget {
   @override
